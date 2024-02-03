@@ -49,6 +49,7 @@ body{
     border: none;
     text-decoration-line: none;
     margin-top: 4px;
+    outline:none;
     /* padding-top: 7px; */
 } 
 #search-icon{
